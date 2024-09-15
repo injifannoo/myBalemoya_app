@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Itu",
+      "email": "itu@example.com",
+      "phone": "1234567890",
+      "profession": "Developer",
+      "password": "Itu123"
+    },
+    {
+      "name": "Mos",
+      "email": "mos@gmail.com",
+      "phone": "0912345",
+      "profession": "bus",
+      "password": "Mos@12"
+    }
+  ]
+}

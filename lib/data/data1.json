@@ -1,0 +1,16 @@
+{
+  "users": [
+  {
+  "email": "itu2@gmail.com",
+  "phone": "0963254895",
+  "walletBalance": 258,
+  "transactions": [
+    {
+      "amount": 258,
+      "description": "Payment Description",
+      "timestamp": "2024-09-15T11:56:41.091Z"
+    }
+  ]
+}
+]
+}
